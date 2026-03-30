@@ -1,5 +1,7 @@
 # SportAnalyzer
 
+Developed for **Smart India Hackathon (SIH) 2025**.
+
 ## Overview
 **SportAnalyzer** is a modern full-stack web application designed for sports performance analysis. It allows users to track and analyze their physical metrics (height, weight, age) in the context of their chosen sport.
 
