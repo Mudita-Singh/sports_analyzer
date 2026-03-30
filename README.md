@@ -17,5 +17,10 @@ Developed for **Smart India Hackathon (SIH) 2025**.
 - **Database**: Drizzle ORM (configured for PostgreSQL).
 - **Validation**: Zod.
 
+## 📸 Demo
+<img width="1876" height="873" alt="image" src="https://github.com/user-attachments/assets/754efeba-96fb-45dc-afc8-21b4661d6b77" />
+<img width="1885" height="869" alt="image" src="https://github.com/user-attachments/assets/b7b84711-9890-43a3-8016-e8f4d75cade2" />
+
+
 
 
