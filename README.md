@@ -15,32 +15,5 @@
 - **Database**: Drizzle ORM (configured for PostgreSQL).
 - **Validation**: Zod.
 
-## Getting Started
 
-### Prerequisites
-- Node.js (v18+)
-- npm or yarn
 
-### Installation
-1.  **Clone the repository**:
-    ```bash
-    git clone https://github.com/Mudita-Singh/sports_analyzer.git
-    cd sports_analyzer
-    ```
-2.  **Install dependencies**:
-    ```bash
-    npm install
-    ```
-3.  **Run in development**:
-    ```bash
-    npm run dev
-    ```
-
-## Project Structure
-- `client/`: React frontend source code.
-- `server/`: Express backend and API logic.
-- `shared/`: Shared TypeScript schemas and validation logic.
-- `drizzle/`: Database migration and configuration.
-
-## License
-MIT
